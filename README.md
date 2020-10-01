@@ -1,6 +1,6 @@
 <html>
    <body>
-      <h3>Bio</h3>
+      <h3 aling"center">Bio</h3>
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
          <br><br>
@@ -51,7 +51,7 @@
       </details>
       <div>
          <h2 align="center">
-            <a href="api.whatsapp.com/send?phone=5514998320338&text=Hi">
+            <a "href="api.whatsapp.com/send?phone=5514998320338&text=Hi">
             <img src="https://dynamic-code.vercel.app/api?url=api.whatsapp.com/send?phone=5514998320338&text=Hi" width="100" height="100"/>
             </a>
          </h2>
