@@ -18,6 +18,9 @@
 <br>
 <br>
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+
 ![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dark)
 
 
@@ -35,3 +38,5 @@
 <a href="https://github.com/matheusmendesp/convertmymoney">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=convertmymoney" alt="convertmymoney" />
 </a>
+
+</details>
