@@ -5,7 +5,13 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
 ![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dracula)
+
+---
 
 ### Recently I'm coding in...
 <a href="https://codestats.net/users/matheusmendesp">
