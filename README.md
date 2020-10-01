@@ -3,6 +3,7 @@
       <a align="middle" >
          <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
       </a>
+      <br>
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
          <br><br>
