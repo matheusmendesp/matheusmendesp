@@ -1,6 +1,6 @@
 <html>
    <body>
-      <h3 aling"center">Bio</h3>
+      <h3 align"center">Bio</h3>
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
          <br><br>
