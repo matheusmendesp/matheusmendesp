@@ -1,6 +1,6 @@
 <html>
    <body>
-      <a align="center" >
+      <a align="center">
       <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
       </a>
       <p align="center">
@@ -39,14 +39,14 @@
                   </a>
                   <h3>Recently I'm coding in...</h3>
                   <a href="https://codestats.net/users/matheusmendesp">
-                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact" alt="Most Used Languages" />
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact" alt="Most Used Languages" />
                   </a>
                   <h3>My latest projects</h3>
                   <a href="https://github.com/johnatanbrayan/financeiro">
-                     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
+                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
                   </a>
                   <a href="https://github.com/johnatanbrayan/ECommerce">
-                     <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
+                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
                   </a>
                </b>
             </div>
