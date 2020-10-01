@@ -1,7 +1,7 @@
 <html>
    <body>
       <a align"center">
-         <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30" height="32" />
+         <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="70" height="70" />
       </a>
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
