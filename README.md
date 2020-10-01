@@ -12,9 +12,6 @@
     <br>
     <br>
       Coffee and Code
-    <br>
-    <br>
-     [![My website](https://dynamic-code.vercel.app/api?url=https://api.whatsapp.com/send?phone=5514998320338&text=Hi)](https://api.whatsapp.com/send?phone=5514998320338&text=Hi)
     </samp>
 </p>
 
