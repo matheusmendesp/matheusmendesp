@@ -3,8 +3,7 @@
 <br>
 <br>
 
-# ## Let's connect and chat! :incoming_envelope:
-
+<i> Let's connect and chat! :incoming_envelope: </i>
 <br>
 
   <a href="https://linkedin.com/in/ashwanisng">
