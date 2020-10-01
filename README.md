@@ -22,7 +22,7 @@
          <a href="https://www.instagram.com/matheusmendespp">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://telegram.me/gsg7397">
+         <a href="https://telegram.me/matheusmendesp">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.facebook.com/matheus.mendespedro">
@@ -42,11 +42,11 @@
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact" alt="Most Used Languages" />
                   </a>
                   <h3>My latest projects</h3>
-                  <a href="https://github.com/johnatanbrayan/financeiro">
-                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
+                  <a href="https://github.com/matheusmendesp/dynamic-code">
+                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=dynamic-code" alt="dynamic-code" />
                   </a>
-                  <a href="https://github.com/johnatanbrayan/ECommerce">
-                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
+                  <a href="https://github.com/matheusmendesp/convertmymoney">
+                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=convertmymoney" alt="convertmymoney" />
                   </a>
                </b>
             </div>
