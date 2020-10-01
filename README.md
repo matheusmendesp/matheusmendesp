@@ -1,5 +1,24 @@
 # Hello World 🖤
 
+<br>
+<br>
+###   <i> Let's connect and chat! :incoming_envelope: </i>
+
+<br>
+
+  <a href="https://linkedin.com/in/ashwanisng">
+    <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/matheusmendesp">
+    <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="https://www.instagram.com/matheusmendespp/">
+    <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/matheus.mendespedro">
+    <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  </a>
+
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
   <br>
@@ -42,19 +61,3 @@
 
   </details>
 </div>
-
-<br>
-<br>
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
-<br>
-
-<p align="center">
-   <a href="https://linkedin.com/in/ashwanisng"><img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp; &nbsp;
-  <a href="https://github.com/matheusmendesp"><img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/matheusmendespp/"><img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> &nbsp; &nbsp;
-  <a href="https://www.facebook.com/matheus.mendespedro"><img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> &nbsp; &nbsp;
-</p>
