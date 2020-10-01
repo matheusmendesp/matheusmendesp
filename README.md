@@ -51,8 +51,8 @@
       </details>
       <div>
          <h2 align="center">
-            <a "href="api.whatsapp.com/send?phone=5514998320338&text=Hi">
-            <img src="https://dynamic-code.vercel.app/api?url=api.whatsapp.com/send?phone=5514998320338&text=Hi" width="100" height="100"/>
+            <a >
+            <img src="https://dynamic-code.vercel.app/api?url=api.whatsapp.com/send?phone=5514998320338&text=Hi"/>
             </a>
          </h2>
       </div>
