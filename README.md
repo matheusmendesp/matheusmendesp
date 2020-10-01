@@ -1,6 +1,6 @@
 <html>
    <body>
-      <a align"center">
+      <a align"center" width="32">
          <img src="https://camo.githubusercontent.com/b5a4a8e12cdfb0a3fa86f9e5762a84f3f5ec95bf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966">
       </a>
       <p align="center">
