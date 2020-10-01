@@ -20,13 +20,13 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dracula)
+![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dark)
 
 
 
 ### Recently I'm coding in...
 <a href="https://codestats.net/users/matheusmendesp">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact&theme=dracula" alt="Most Used Languages" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact&theme=dark" alt="Most Used Languages" />
 </a>
 
 ### My latest projects
