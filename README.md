@@ -1,10 +1,8 @@
 <html>
    <body>
-      <p align="center">
-         <a>
-         <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
-         </a>
-      </p>
+      <a align="center" >
+      <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
+      </a>
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
          <br><br>
@@ -37,7 +35,18 @@
                <b>
                   <h3>My Stats</h3>
                   <a href="https://github.com/gauravghongde/github-readme-stats/actions">
-                  <img alt="matheusmendesp's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=matheusmendesp&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
+                  <img alt="matheusmendesp's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=matheusmendesp&"/>
+                  </a>
+                  <h3>Recently I'm coding in...</h3>
+                  <a href="https://codestats.net/users/matheusmendesp">
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5" alt="Most Used Languages" />
+                  </a>
+                  <h3>My latest projects</h3>
+                  <a href="https://github.com/johnatanbrayan/financeiro">
+                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
+                  </a>
+                  <a href="https://github.com/johnatanbrayan/ECommerce">
+                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
                   </a>
                </b>
             </div>
