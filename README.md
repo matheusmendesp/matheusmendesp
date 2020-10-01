@@ -52,7 +52,7 @@
 
 <br>
 
-<p align="center"> 
+<div align="center"> 
   <a href="https://linkedin.com/in/ashwanisng">
     <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -65,4 +65,4 @@
   <a href="https://www.facebook.com/matheus.mendespedro">
     <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
-</p>
+</div>
