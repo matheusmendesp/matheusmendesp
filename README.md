@@ -6,7 +6,7 @@
 <i> Let's connect and chat! :incoming_envelope: </i>
 <br>
 
-  <a href="https://linkedin.com/in/ashwanisng">
+  <a href="https://www.linkedin.com/in/matheusmendespp/">
     <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/matheusmendesp">
@@ -24,15 +24,12 @@
 
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
-  <br>
-  <br>
+  <br><br>
   <samp>
       I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-    <br>
-    <br>
+    <br><br>
       I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.
-    <br>
-    <br>
+    <br><br>
       Coffee and Code
     </samp>
 </p>
