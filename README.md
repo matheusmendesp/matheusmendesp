@@ -8,13 +8,14 @@
       I'm Matheus Mendes :wave:
     <br>
     <br>
-    I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.
-     <br>
-    <br>
-     Coffee and Code
+      I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.
     <br>
     <br>
-      P.S. I do know that HTML is not a programming language! :v:
+      Coffee and Code
+    <br>
+    <br>
+     Shortcut to https://api.whatsapp.com/send?phone=5514998320338&text=Hi
+     [![My website](https://dynamic-code.vercel.app/api?url=https://api.whatsapp.com/send?phone=5514998320338&text=Hi)](https://api.whatsapp.com/send?phone=5514998320338&text=Hi)
     </samp>
 </p>
 
