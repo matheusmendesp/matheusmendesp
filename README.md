@@ -40,3 +40,9 @@
 </a>
 
 </details>
+
+<p align="center"> 
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+
+<br>
