@@ -39,7 +39,7 @@
                   </a>
                   <h3>Recently I'm coding in...</h3>
                   <a href="https://codestats.net/users/matheusmendesp">
-                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5" alt="Most Used Languages" />
+                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact" alt="Most Used Languages" />
                   </a>
                   <h3>My latest projects</h3>
                   <a href="https://github.com/johnatanbrayan/financeiro">
