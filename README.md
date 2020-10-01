@@ -1,11 +1,11 @@
-# Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hello World 🖤
 
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
   <br>
   <br>
   <samp>
-      I'm Matheus Mendes :wave:
+      I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
     <br>
     <br>
       I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.
