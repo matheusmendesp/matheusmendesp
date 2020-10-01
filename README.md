@@ -1,6 +1,6 @@
 <html>
    <body>
-      <a align="center">
+      <a>
       <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
       </a>
       <p align="center">
