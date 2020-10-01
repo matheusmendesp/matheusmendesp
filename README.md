@@ -18,28 +18,30 @@
 <br>
 <br>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+<div align="center">
+  <details>
+    <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
 
-![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dark)
+  ![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dark)
 
 
 
-### Recently I'm coding in...
-<a href="https://codestats.net/users/matheusmendesp">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact&theme=dark" alt="Most Used Languages" />
-</a>
+  ### Recently I'm coding in...
+  <a href="https://codestats.net/users/matheusmendesp">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact&theme=dark" alt="Most Used Languages" />
+  </a>
 
-### My latest projects
+  ### My latest projects
 
-<a href="https://github.com/matheusmendesp/dynamic-code/">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=dynamic-code" alt="dynamic-code" />
-</a>
-<a href="https://github.com/matheusmendesp/convertmymoney">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=convertmymoney" alt="convertmymoney" />
-</a>
+  <a href="https://github.com/matheusmendesp/dynamic-code/">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=dynamic-code" alt="dynamic-code" />
+  </a>
+  <a href="https://github.com/matheusmendesp/convertmymoney">
+    <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=convertmymoney" alt="convertmymoney" />
+  </a>
 
-</details>
+  </details>
+</div>
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
