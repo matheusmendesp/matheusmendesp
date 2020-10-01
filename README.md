@@ -1,8 +1,6 @@
 <html>
    <body>
-      <a align"center">
-         <img align"center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-      </a>
+      <h3>Bio</h3>
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
          <br><br>
@@ -51,5 +49,12 @@
                </b>
             </div>
       </details>
+      <div>
+         <h2 align="center">
+            <a href="api.whatsapp.com/send?phone=5514998320338&text=Hi">
+            <img src="https://dynamic-code.vercel.app/api?url=api.whatsapp.com/send?phone=5514998320338&text=Hi" width="50" height="50"/>
+            </a>
+         </h2>
+      </div>
    </body>
 </html>
