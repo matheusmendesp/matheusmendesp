@@ -2,7 +2,8 @@
 
 <br>
 <br>
-###   <i> Let's connect and chat! :incoming_envelope: </i>
+
+# ## Let's connect and chat! :incoming_envelope:
 
 <br>
 
