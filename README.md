@@ -1,27 +1,25 @@
 # Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/matheusmendesp">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/matheusmendespp/">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/matheus.mendespedro">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="30%">
+  <br>
+  <br>
+  <samp>
+      I'm Matheus Mendes :wave:
+    <br>
+    <br>
+    I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.
+     <br>
+    <br>
+     Coffee and Code
+    <br>
+    <br>
+      P.S. I do know that HTML is not a programming language! :v:
+    </samp>
+</p>
 
-<br/>
-<br/>
-
-<em>Nice to meet you!. I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.</em>
-
-<br/>
-<br/>
-
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<br>
+<br>
 
 ![Matheus Mendes github stats](https://github-readme-stats.vercel.app/api?username=matheusmendesp&show_icons=true&theme=dark)
 
