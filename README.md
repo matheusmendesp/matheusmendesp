@@ -13,19 +13,19 @@
       </p>
       <h2 align="center">Contact me on</h2>
       <h2 align="center">
-         <a href="https://www.linkedin.com/in/matheusmendespp/">
+         <a href="https://www.linkedin.com/in/matheusmendespp/" target="_blank">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
          </a>
-         <a href="https://github.com/matheusmendesp">
+         <a href="https://github.com/matheusmendesp" target="_blank">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.instagram.com/matheusmendespp">
+         <a href="https://www.instagram.com/matheusmendespp" target="_blank">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://telegram.me/matheusmendesp">
+         <a href="https://telegram.me/matheusmendesp" target="_blank">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.facebook.com/matheus.mendespedro">
+         <a href="https://www.facebook.com/matheus.mendespedro" target="_blank">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png" width="32" height="32"/>
          </a>
       </h2>
