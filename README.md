@@ -17,10 +17,13 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" height="32"/>
          </a>
          <a>
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="32" height="32"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="32" height="32"/>
          </a>
          <a>
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="32" height="32"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="32" height="32"/>
+         </a>
+         <a>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="32" height="32"/>
          </a>
       </h2>
       <h2 align="center">Contact me on</h2>
