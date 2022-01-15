@@ -6,11 +6,23 @@
       <p align="center">
          I'm Matheus Mendes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
          <br><br>
-         I'm a fullstack developer. I'm from Brazil, and I'm currently living in Bauru-SP.
+         I'm an IOS developer, I have knowledge in React. Currently working with view code and MVVM-C I'm from Brazil, and I'm currently living in Bauru-SP
          <br><br>
          Coffee and Code
          <br>
       </p>
+       <h2 align="center">Skills</h2>
+      <h2 align="center">
+         <a>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" height="32"/>
+         </a>
+         <a>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="32" height="32"/>
+         </a>
+         <a>
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="32" height="32"/>
+         </a>
+      </h2>
       <h2 align="center">Contact me on</h2>
       <h2 align="center">
          <a href="https://www.linkedin.com/in/matheusmendespp/" target="_blank">
@@ -48,7 +60,7 @@
       <div>
          <h2 align="center">
             <a >
-            <img src="https://code.matheusmendespp.dev/api?url=api.whatsapp.com/send?phone=5514998320338&text=Hi"/>
+            <img src="https://code.matheusmendespp.dev/api?url=https://matheusmendespp.dev"/>
             </a>
          </h2>
       </div>
