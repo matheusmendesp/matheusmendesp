@@ -60,12 +60,5 @@
                </b>
             </div>
       </details>
-      <div>
-         <h2 align="center">
-            <a >
-            <img src="https://code.matheusmendespp.dev/api?url=https://matheusmendespp.dev"/>
-            </a>
-         </h2>
-      </div>
    </body>
 </html>
