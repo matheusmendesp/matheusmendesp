@@ -50,13 +50,6 @@
                   <a href="https://codestats.net/users/matheusmendesp">
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmendesp&layout=compact" alt="Most Used Languages" />
                   </a>
-                  <h3>My latest projects</h3>
-                  <a href="https://github.com/matheusmendesp/dynamic-code">
-                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=dynamic-code" alt="dynamic-code" />
-                  </a>
-                  <a href="https://github.com/matheusmendesp/convertmymoney">
-                  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmendesp&repo=convertmymoney" alt="convertmymoney" />
-                  </a>
                </b>
             </div>
       </details>
